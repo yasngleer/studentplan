@@ -3,7 +3,7 @@
 - The api written in golang with Echo
 - Used MySQL and GORM for database and orm
 - Used Docker and Docker-Compose
-
+- Included postman backup
 
 ### Features
 
